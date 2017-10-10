@@ -2,7 +2,7 @@
   "name": "wolf-cw",
   "version": "1.0.0",
   "description": "Primer Web App",
-  "main": "app.js",
+  "main": "node app.js",
   "scripts": {
     "start": "app.js"
   },
