@@ -1,0 +1,19 @@
+{
+  "name": "wolf-cw",
+  "version": "1.0.0",
+  "description": "Primer Web App",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosEBotello/wolf-cw.git"
+  },
+  "author": "Carlos Botello",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosEBotello/wolf-cw/issues"
+  },
+  "homepage": "https://github.com/CarlosEBotello/wolf-cw#readme"
+}
