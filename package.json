@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/CarlosEBotello/wolf-cw/issues"
   },
-  "homepage": "https://github.com/CarlosEBotello/wolf-cw#readme"
+  "homepage": "https://github.com/CarlosEBotello/wolf-cw#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
 }
